@@ -1,4 +1,6 @@
 # Implementation of Multivariate Linear Regression
+## NAME: Jayagar.T
+## REG.NO: 212224220042
 ## Aim
 To write a python program to implement multivariate linear regression and predict the output.
 ## Equipment’s required:
